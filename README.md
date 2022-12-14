@@ -92,8 +92,8 @@ In order to run this project you need:
 
 👤 **Anas Al-Sammarraie**
 
-- GitHub: []()
-- Twitter: []()
+- GitHub: [@anas599](https://github.com/anas599)
+- Twitter: [@anas599](https://twitter.com/anas599)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
